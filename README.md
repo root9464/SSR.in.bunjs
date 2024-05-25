@@ -1,15 +1,14 @@
-# An example of how to use [Bun](https://bun.sh) to server-side render (SSR) React components
-
-To install dependencies:
+#Пример использования [Bun](https://bun.sh) для рендеринга компонентов React на стороне сервера (SR)
+Для установки зависимостей:
 
 ```bash
 bun install
 ```
 
-To run:
+Для запуска:
 
 ```bash
 bun run index.tsx
 ```
 
-This project was created using `bun init` in bun v1.0.0. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+Этот проект был создан с использованием "bun init" в bun версии 1.0.0. [Bun](https://bun.sh) - это быстрая универсальная среда выполнения JavaScript.
